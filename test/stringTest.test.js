@@ -1,5 +1,5 @@
 import {stringLength, reverseString, capitalizeString} from '../string';
-import Calculator from '../calculator'
+import Calculator from '../caltulator';
 describe('string task', () => {
     test('Valid text length', ()=> {
         expect(stringLength('hello')).toBe(5);
