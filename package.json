@@ -1,0 +1,27 @@
+{
+  "name": "test-jest-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "caltulator.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest",
+    "look": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolaswg/Test-Jest-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicolaswg/Test-Jest-Project/issues"
+  },
+  "homepage": "https://github.com/Nicolaswg/Test-Jest-Project#readme",
+  "devDependencies": {
+    "@babel/plugin-transform-modules-commonjs": "^7.16.8",
+    "jest": "^27.4.7"
+  }
+}
